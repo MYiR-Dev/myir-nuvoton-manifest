@@ -2,7 +2,7 @@
 <manifest>
 
   <default sync-j="8"/>
-  <remote fetch="git://github.com/MYiR-Dev" name="MYiR-DEV"/>
+  <remote fetch="https://github.com/MYiR-Dev" name="MYiR-DEV"/>
   <remote fetch="https://git.yoctoproject.org" name="yocto"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/meta-qt5" name="qt"/>
