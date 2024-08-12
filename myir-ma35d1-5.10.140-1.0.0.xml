@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="8"/>
+  <remote fetch="git://github.com/MYiR-Dev" name="MYiR-DEV"/>
+  <remote fetch="https://git.yoctoproject.org" name="yocto"/>
+  <remote fetch="https://github.com/openembedded" name="oe"/>
+  <remote fetch="https://github.com/meta-qt5" name="qt"/>
+  <project remote="MYiR-DEV" name="meta-myir-nuvoton" revision="9dde2b628c7cc40465f1bd1459a40152b074d1aa" path="sources/meta-myir" upstream="MA35D1-5.10.140-dunfell"/>
+  <project remote="yocto" revision="251639560dd29bd2da5e694c1d5958ca26b12d0d" name="poky" path="sources/poky"/>
+  <project remote="yocto" revision="89abc62b47f6f20db9d00a8ec9b2c1b6b60ac3f9" name="meta-virtualization" path="sources/meta-virtualization"/>
+  <project remote="oe" revision="430ef96fe65f62d8da995f446d5b9b093544f031" name="meta-openembedded" path="sources/meta-openembedded"/>
+  <project remote="qt" revision="b4d24d70aca75791902df5cd59a4f4a54aa4a125" name="meta-qt5" upstream="dunfell" path="sources/meta-qt5"/>
+
+ 
+
+</manifest>
