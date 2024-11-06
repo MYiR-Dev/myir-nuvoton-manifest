@@ -6,7 +6,7 @@
   <remote fetch="https://git.yoctoproject.org" name="yocto"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/meta-qt5" name="qt"/>
-  <project remote="MYiR-DEV" name="meta-myir-nuvoton" revision="79d6953658f793771d2a9db5fd29a6541598f491" path="sources/meta-myir" upstream="MA35D1-5.10.140-dunfell"/>
+  <project remote="MYiR-DEV" name="meta-myir-nuvoton" revision="bf542ea4590c82f832ea88638c4de9b647b8206c" path="sources/meta-myir" upstream="MA35D1-5.10.140-dunfell"/>
   <project remote="yocto" revision="251639560dd29bd2da5e694c1d5958ca26b12d0d" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="89abc62b47f6f20db9d00a8ec9b2c1b6b60ac3f9" name="meta-virtualization" path="sources/meta-virtualization"/>
   <project remote="oe" revision="430ef96fe65f62d8da995f446d5b9b093544f031" name="meta-openembedded" path="sources/meta-openembedded"/>
